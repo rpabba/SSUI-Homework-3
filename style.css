@@ -1,0 +1,138 @@
+
+nav{background-color:#F2B7B7;
+    font-family: GothamHTF-Bold;
+    font-size: 18px;
+    text-decoration: none;
+    border-bottom: 5px #BD7171 solid;
+    text-align: center;
+    text-decoration: none;}
+
+#logo{
+    padding-bottom: 18px;
+    padding-top: 10px;}
+
+footer{background-color:#F2B7B7;
+    height: 150px;
+    font-family: GothamHTF-Book;
+    color: white;
+    font-size: 8px;
+    border-top: 5px #BD7171 solid;}
+
+div.footer{
+    padding: 15px;
+    text-align: center;}
+
+h3{color: #BD7171;
+    font-family: GothamHTF-Bold;
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 20px;}
+
+h5{color: #BD7171;
+    font-family: GothamHTF-Bold;
+    font-size: 20px;
+    margin: 0;}
+
+p{font-family: GothamHTF-Book;
+    font-size: 18px;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+
+button{
+    background-color: #BD7171;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: GothamHTF-Book;
+    border-radius: 10px;
+    margin-bottom: 20px;}
+
+select{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: GothamHTF-Book;}
+
+body{
+    font-family: GothamHTF-Book;
+    font-size: 12px;
+    padding-bottom: 10px;
+    padding-top: 10px;}
+
+input[type=text]{
+  width: 400px;
+  height:100px;
+  padding-bottom:20px;
+    border: 2px #CCCCCC solid;
+    margin-bottom: 10px;}
+
+h6{font-family: GothamHTF-Book;
+    font-size: 12px;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+/*********** Image Grid on Menu Page ************/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #CCCCCC;
+    width: 180px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    display: inline-block;}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: GothamHTF-Book;
+    font-size: 12px;
+}
+
+/*********** Image Grid on Shopping Cart Page ************/
+div.cart {
+    margin: 5px;
+    border: 1px solid #CCCCCC;
+    width:300px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-bottom: 20px;
+    display: inline-block;}
+
+div.cart img {
+    width: 100%;
+    height: auto;
+}
+
+div.descCart {
+    padding: 15px;
+    text-align: center;
+    font-family: GothamHTF-Regular;
+    font-size: 12px;}
+
+div.deleteButton{
+    margin-left: 65px;
+}
+
+/*********** Box 1 ************/
+div.box1
+{
+    margin: 5px;
+    border: 1px solid #CCCCCC;
+    width: auto;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-bottom: 20px;
+    display: inline-block;
+    padding:15px;
+}
